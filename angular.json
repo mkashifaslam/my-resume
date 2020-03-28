@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-resume"
+    }
+  },
+  "defaultProject": "my-resume",
+  "cli": {
+    "analytics": "40e18742-4e8f-4d72-9e31-e0eba1bc64be"
+  }
 }
